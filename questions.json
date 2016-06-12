@@ -1,0 +1,21 @@
+{
+  "questions": [{
+    "Question": "what is the opposite of high?",
+    "Answer": "low"
+  }, {
+    "Question": "What is your name?",
+    "Answer": "Jeff"
+  }, {
+    "Question": "What is this game?",
+    "Answer": "Bluffer"
+  }, {
+    "Question": "Hi?",
+    "Answer": "Hello"
+  }, {
+    "Question": "This game sucks?",
+    "Answer": "YES"
+  }, {
+    "Question": "OKAY",
+    "Answer": "OKAY"
+  }]
+ }
